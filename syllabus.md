@@ -110,3 +110,51 @@ Modeling of the following problems using Matlab / Mathematica / Maple etc.
 5. G. F. Simmons - Introduction to Topology and Modern Analysis.
 6. Joseph  Bak and Donald  J.  Newman - Complex analysis (2nd Edition).
 7. John  P.  D’Angelo - An  Introduction  to  Complex  Analysis  and  Geometry
+
+<h3>Differential Equations</h3>
+
+1. Differential  equations  and  mathematical  models,  order  and  degree  of  a  differential  equation, exact differential equations and integrating factors of first order differential equations, reducible second  order  differential  equations,  application  of first  order  differential  equations  to acceleration-velocity model, growth and decay model.
+2. Introduction  to  compartmental  models,lake  pollution  model  (with  case  study  of  Lake  Burley Griffin), drug assimilation into the blood (case of a single cold pill, case of a course of cold pills, case study of alcohol in the bloodstream), exponential growth of population, limited growth of population, limited growth with harvesting.
+3. General  solution  of  homogeneous  equation  of  second order,  principle  of  superposition  for  a homogeneous  equation,  Wronskian,  its  properties  and applications,  Linear  homogeneous  and non-homogeneous equations of higher order with constant coefficients, Euler’s equation, method of  undetermined  coefficients,  method  of  variation  of  parameters,  applications  of  second  order differential equations to mechanical vibrations.
+4. Equilibrium  points,  interpretation  of  the  phase  plane,  predator-prey  model  and  its  analysis, competing species and its analysis, epidemic model of influenza and its analysis, battle model and its analysis.
+5. Introduction,  classification,  construction  and  geometrical  interpretation  of  first  order  partial differential equations (PDE), method of characteristic and general solution of first order PDE, canonical form of first order PDE, method of separation of variables for first order PDE.
+6. Mathematical  modeling  of  vibrating  string,  vibrating  membrane,  conduction  of  heat  in  solids, gravitational potential, conservation laws and Burger’s equations, classification of second order PDE, reduction to canonical forms, equations with constant coefficients, general solution.
+7. Cauchy  problem  for  second  order  PDE,  homogeneous  wave  equation,  initial  boundary  value problems,  non-homogeneous  boundary  conditions,  finite  strings  with  fixed  ends,  non-homogeneous  wave  equation,  Riemann  problem,  Goursat problem,  spherical  and  cylindrical wave equation.
+8. Method of separation of variables for second order PDE, vibrating string problem, existence and uniqueness  of  solution  of  vibrating  string  problem, heat  conduction  problem,  existence  and uniqueness  of  solution  of  heat  conduction  problem, Laplace  and  beam  equation,  non-homogeneous problem.
+9. Power series solution of a differential equation about an ordinary point, solution about a regular singular  point,  Bessel’s  equation  and  Legendre’s  equation,  Laplace  transform  and  inverse transform, application to initial value problem up to second order.
+10. Monte  Carlo  Simulation  Modeling: simulating  deterministic  behavior  (area  under  a  curve, volume  under  a  surface),  Generating  Random  Numbers: middle  square  method,  linear congruence,  Queuing  Models: harbor  system,  morning  rush  hour,  Overview  of  optimization modeling, Linear Programming Model: geometric solution algebraic solution, simplex method, sensitivity analysis.
+11. Graphs,  diagraphs,  networks  and  subgraphs,  vertex  degree,  paths  and  cycles,  regular  and bipartite  graphs,  four  cube  problem,  social  networks,  exploring  and  traveling,  Eulerian  and Hamiltonian graphs, applications to dominoes, diagram tracing puzzles, Knight’s tour problem, gray codes.
+
+<b>Practicals</b>
+(i) Plotting second and third order solution families 
+(ii) Acceleration-velocity model 
+(iii) Growth and decay model (both exponential and logistic) 
+(iv) Any two of the following 
+(a) Lake pollution model (with constant/ seasonal flow and pollution concentration) 
+(b) Case of a single cold pill and a course of cold pills 
+(c) Case study of alcohol in the bloodstream (initial input/ continuous input on empty stomach and with substantial meal) 
+(d) Limited growth of population (with and without harvesting) 
+(v) Any two of the following 
+(a) Predator prey model (basic Lotka volterra model, with density dependence, effect of DDT, two prey one predator) 
+(b) Epidemic model of influenza (basic epidemic model, contagious for life, disease with carriers, disease with re-infection, density dependent contact rate) 
+(c) Battle model (basic battle model, jungle warfare, with desertion, long range weapons) 
+(vi)  Taylor  and  Maclaurin  series  of  sin  x,  cos x, log  (1+x),  exp(x),  (1+x)n,  maxima  and  minima, inverse of graphs.
+
+<b>Books</b>
+1. Belinda  Barnes and Glenn  R.  Fulford - Mathematical  Modeling  with  Case  Studies, A Differential Equation Approach Using Maple.
+2. C.  H.  Edwards and D.  E.  Penny - Differential Equations and Boundary Value Problems: Computing and Modeling.
+3. S. L. Ross - Differential Equations.
+4. Tyn Myint-U and Lokenath Debnath - Linear Partial Differential Equation for Scientists and Engineers.
+5. Joan M. Aldous and Robin J. Wilson - Graphs and Applications: An Introductory Approach.
+6. Frank R. Giordano, Maurice D. Weir and William P. Fox - A First Course in Mathematical Modeling.
+
+<h3>Probability and Statistics</h3>
+
+1. Sample space, probability axioms, real random variables (discrete and continuous), cumulative distribution  function,  probability  mass/density  functions,  mathematical  expectation,  moments, moment  generating  function,  characteristic  function,  discrete  distributions:  uniform,  binomial, Poisson, geometric, negative binomial, continuous distributions: uniform, normal, exponential.
+2. Joint  cumulative  distribution  function  and  its  properties,  joint  probability  density  functions, marginal  and  conditional  distributions,  expectation of  function  of  two  random  variables, conditional  expectations,  independent  random  variables,  bivariate  normal  distribution, correlation coefficient, joint moment generating  function (jmgf)  and  calculation of covariance (from jmgf), linear regression for two variables.
+3. Chebyshev’s inequality, statement and interpretation of (weak) law of large numbers and strong law  of  large  numbers,  Central  Limit  theorem  for  independent  and  identically  distributed  random variables with finite variance, Markov Chains, Chapman-Kolmogorov equations, classification of states.
+
+<b>Books</b>
+1. Robert  V.  Hogg,  Joseph  W.  McKean and Allen  T.  Craig, Introduction to Mathematical Statistics.
+2. Irwin  Miller and Marylees  Miller, John  E.  Freund’s  Mathematical  Statistics  with Applications (7th Edition).
+3. Sheldon  Ross, Introduction to Probability Models (9th  Edition).
