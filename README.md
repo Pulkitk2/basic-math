@@ -13,17 +13,52 @@ The course has been divided into 3 years. To be honest, I don't have the patienc
 
 <table>
 <tr>
-<th><b>Year 1</b></th>
-<th><b>Year 2</b></th>
-<th><b>Year 3</b></th>
+<th><b>Year</b></th>
+<th><b>Subject</b></th>
+<th><b>Source</b></th>
 </tr>
 <tr>
-  <td>Calculus</td>
-  <td>Algorithms</td>
-  
+  <td>Year 1</td>
+  <td>Single Variable Calculus</td>
 </tr>
-<tr>  
+<tr>
+  <td>Year 1</td>
+  <td>Multivariable Calculus</td>
+</tr>
+<tr>
+  <td>Year 1</td>
   <td>Linear Algebra</td>
+</tr>
+<tr>
+  <td>Year 1</td>
+  <td>Real Analysis</td>
+</tr>
+<tr>
+  <td>Year 2</td>
+  <td>Differential Equations</td>
+</tr>
+<tr>
+  <td>Year 2</td>
+  <td>Partial Differential Equations</td>
+</tr>
+<tr>
+  <td>Year 2</td>
   <td>Probability and Statistics</td>
+</tr>
+<tr>
+  <td>Year 2</td>
+  <td>Numerical Methods</td>
+</tr>
+<tr>
+  <td>Year 3</td>
+  <td>Complex Analysis</td>
+</tr>
+<tr>
+  <td>Year 3</td>
+  <td>Linear Programming</td>
+</tr>
+<tr>
+  <td>Year 1</td>
+  <td>Calculus</td>
 </tr>
 </table>
