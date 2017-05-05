@@ -58,4 +58,11 @@ Calculus (3rd ed) - Strauss, Bradley and Smith.
 16. Primary  decomposition  theorem,  theorem  on  decomposition  into  sum  of  diagonalizable  and nilpotent  operator,  cyclic  subspaces  and  annihilators,  cyclic  decomposition  theorem,  rational form, invariant factors, Jordan form.
 
 <b>Books</b>
-1. 
+1. Titu Andreescu and Dorin Andrica - Complex Numbers from A to .... Z.
+2. E.J. Barbeau - Polynomials.
+3. Gallian - Contemporary Abstract Algebra (4th Edition).
+4. Goodaire and Parmenter - Discrete Mathematics with Graph Theory (2nd Edition).
+5. David C. Lay - Linear Algebra and its Applications (3rd Edition).
+6. Friedberg, Insel and Spence - Linear Algebra (4th Edition).
+7. Dummit and Foote - Abstract Algebra (2nd Edition).
+8. Hoffman and Kunze - Linear Algebra (2nd edition).
