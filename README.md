@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 This curriculum has been designed for my personal objectives. Feel free to use it as a template for your own personal curriculum.
 
 The course has been divided into 3 years. To be honest, I don't have the patience to hold on to this for 3 years so I'll try to complete the course in a shorter time frame without compromising with knowledge gained.
@@ -30,6 +27,3 @@ The course has been divided into 3 years. To be honest, I don't have the patienc
   <td>Probability and Statistics</td>
 </tr>
 </table>
-
-</body>
-</html>
