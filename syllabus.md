@@ -1,7 +1,5 @@
 The syllabus for the subjects will be based on <a href = 'http://keshav.du.ac.in/Downloads/courses/B.Sc.(H)%20Mathematics%20Semester%20Scheme%202011%20onwards.pdf'>Bsc Mathematics course offered by Delhi University</a> as I find it very precisely explained and includes practical problems, and also from MIT's Opencourseware courses. It is, however, subject to change as per time constraints. 
 
-<h2>Year 1</h2>
-
 <h3>Calculus</h3>
 
 <b>Theory</b>
