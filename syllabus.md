@@ -158,3 +158,42 @@ Modeling of the following problems using Matlab / Mathematica / Maple etc.
 1. Robert  V.  Hogg,  Joseph  W.  McKean and Allen  T.  Craig, Introduction to Mathematical Statistics.
 2. Irwin  Miller and Marylees  Miller, John  E.  Freund’s  Mathematical  Statistics  with Applications (7th Edition).
 3. Sheldon  Ross, Introduction to Probability Models (9th  Edition).
+
+<h3>Numerical Methods</h3>
+
+1. Algorithms,  Convergence,  Bisection  method,  False  position  method,  Fixed  point  iteration method, Newton’s method, Secant method, LU decomposition, Gauss-Jacobi, Gauss-Siedel and SOR iterative methods.
+2. Lagrange and Newton interpolation: linear and higher order, finite difference operators.
+3. Numerical  differentiation:  forward  difference,  backward  difference  and  central  difference. Integration: trapezoidal rule, Simpson’s rule, Euler’s method.
+
+<b>Practicals</b>
+(i) Calculate the sum 1/1 + 1/2 + 1/3 + 1/4 + ----------+ 1/ N. 
+(ii) To find the absolute value of an integer. 
+(iii) Enter 100 integers into an array and sort them in an ascending order. 
+(iv) Any two of the following  
+(a) Bisection Method 
+(b) Newton Raphson Method  
+(c) Secant Method 
+(d) Regulai Falsi Method 
+(v) LU decomposition Method
+(vi) Gauss-Jacobi Method  
+(vii) SOR Method or Gauss-Siedel Method 
+(viii) Lagrange Interpolation or Newton Interpolation 
+(ix) Simpson’s rule.
+
+<b>Books</b>
+1. B. Bradie - A Friendly Introduction to Numerical Analysis. 
+2.  M.  K.  Jain,  S.  R.  K.  Iyengar and R.  K.  Jain - Numerical  Methods  for  Scientific  and Engineering Computation, 5th edition. 
+3. C. F. Gerald and P. O. Wheatley - Applied Numerical Analysis (7th edition).
+
+<h3>Linear Programming</h3>
+
+1. Introduction  to  linear  programming  problem,  Theory of  simplex  method,  optimality  and unboundedness,  the  simplex  algorithm,  simplex  method  in  tableau  format,  introduction  to artificial variables, two‐phase method, Big‐M method and their comparison.
+2. Duality, formulation of the dual problem, primal‐dual relationships, economic interpretation of the dual.
+3. Transportation  problem  and  its  mathematical  formulation,  northwest‐corner  method  least  cost method and Vogel approximation method for determination of starting basic solution, algorithm for  solving  transportation  problem,  assignment  problem  and  its  mathematical  formulation, Hungarian method for solving assignment problem.
+4. Game theory: formulation of two person zero sum games, solving two person zero sum games, games  with  mixed  strategies,  graphical  solution  procedure,  linear  programming  solution  of games.
+
+<b>Books</b>
+1. Mokhtar  S.  Bazaraa, John  J.  Jarvis and Hanif  D.  Sherali - Linear Programming and Network Flows (2nd edition).
+2. F. S. Hillier and G. J. Lieberman - Introduction to Operations Research (9th Edition). 
+3. Hamdy A. Taha - Operations Research, An Introduction (8th edition).
+4. G. Hadley - Linear Programming
